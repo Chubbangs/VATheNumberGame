@@ -1,0 +1,58 @@
+[
+  {
+    "key": "Construction",
+    "color": "#d62728",
+    "values": [
+	
+	{	"Country":"Canada",
+    	"Year":2012,
+		"Industry": "Wholesale & Retail Trade",
+    	"value":873.5
+	},
+      {
+    	"Country":"Canada",
+    	"Year":2012,
+		"Industry": "Manufacturing",
+    	"value":828.8
+	  },
+	{
+		"Country":"Canada",
+    	"Year":2012,
+		"Industry": "Others",
+    	"value":529.5
+	},
+	{
+		"Country":"Canada",
+    	"Year":2012,
+		"Industry": "Transport & Storage,Information & Communication",
+    	"value":33.0
+	},
+	{
+		"Country":"Canada",
+    	"Year":2012,
+		"Industry": "Professional, Scientific & Technical Administrative & Support Services",
+    	"value":3.6
+	},
+	{
+		"Country":"Canada",
+    	"Year":2012,
+		"Industry": "Financial Insurance Services,Real Estate Activities",
+    	"value":0.0
+	},
+
+	{	"Country":"Canada",
+    	"Year":2012,
+		"Industry": "Accommodation & Food Services Activities",
+    	"value":0.0
+	},
+	
+	{
+		"Country":"Canada",
+    	"Year":2012,
+		"Industry": "Construction",
+    	"value":0.0
+	}
+	  
+	]
+  }
+]

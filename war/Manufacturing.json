@@ -1,0 +1,144 @@
+[
+  {
+    "key": "Construction",
+    "color": "#d62728",
+    "values": [
+      {
+    "Country":"Cayman Islands",
+    "Country Code":"CYM",
+    "value":22848.50
+	  },
+	  {
+	    "Country":"Netherlands",
+	    "Country Code":"NLD",
+	    "value":22394.60
+	  },
+	  {
+	    "Country":"United States",
+	    "Country Code":"USA",
+	    "value":13382.50
+	  },
+	  {
+	    "Country":"Japan",
+	    "Country Code":"JON",
+	    "value":10573.60
+	  },
+	  {
+	    "Country":"Switzerland",
+	    "Country Code":"CHE",
+	    "value":2947.20
+	  },
+	  {
+	    "Country":"Taiwan",
+	    "Country Code":"TWN",
+	    "value":2551.10
+	  },
+	  {
+	    "Country":"Norway",
+	    "Country Code":"NOR",
+	    "value":2249.00
+	  },
+	  {
+	    "Country":"Germany",
+	    "Country Code":"DEU",
+	    "value":1733.50
+	  },
+	  {
+	    "Country":"Malaysia",
+	    "Country Code":"MYS",
+	    "value":821.10
+	  },
+	  {
+	    "Country":"Canada",
+	    "Country Code":"CAN",
+	    "value":769.80
+	  },
+	  {
+	    "Country":"France",
+	    "Country Code":"FRA",
+	    "value":738.10
+	  },
+	  {
+	    "Country":"India",
+	    "Country Code":"IND",
+	    "value":490.10
+	  },
+	  {
+	    "Country":"Luxembourg",
+	    "Country Code":"LUX",
+	    "value":412.00
+	  },
+	  {
+	    "Country":"Hong Kong",
+	    "Country Code":"HKG",
+	    "value":274.40
+	  },
+	  {
+	    "Country":"Thailand",
+	    "Country Code":"THA",
+	    "value":190.90
+	  },
+	  {
+	    "Country":"Australia",
+	    "Country Code":"AUS ",
+	    "value":166.10
+	  },
+	  {
+	    "Country":"Korea, Republic of",
+	    "Country Code":"KOR",
+	    "value":33.90
+	  },
+	  {
+	    "Country":"Mauritius",
+	    "Country Code":"MRT",
+	    "value":25.30
+	  },
+	  {
+	    "Country":"Indonesia",
+	    "Country Code":"IDN",
+	    "value":19.40
+	  },
+	  {
+	    "Country":"Philippines",
+	    "Country Code":"PHL",
+	    "value":8.80
+	  },
+	  {
+	    "Country":"Brunei Darussalam",
+	    "Country Code":"BRN",
+	    "value":0.00
+	  },
+	  {
+	    "Country":"China",
+	    "Country Code":"CHN",
+	    "value":0.00
+	  },
+	  {
+	    "Country":"Israel",
+	    "Country Code":"ISR",
+	    "value":0.00
+	  },
+	  {
+	    "Country":"Myanmar",
+	    "Country Code":"MMR",
+	    "value":0.00
+	  },
+	  {
+	    "Country":"New Zealand",
+	    "Country Code":"NZL",
+	    "value":0.00
+	  },
+	  {
+	    "Country":"United Kingdom",
+	    "Country Code":"GBR",
+	    "value":0.00
+	  },
+	  {
+	    "Country":"Vietnam",
+	    "Country Code":"VNM",
+	    "value":0.00
+	  }
+    ]
+  }
+]
+

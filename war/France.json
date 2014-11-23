@@ -1,0 +1,55 @@
+[
+  {
+    "key": "Returned Earnings",
+    "color": "#d62728",
+    "values": [
+      { 
+        "label" : "2008" ,
+        "value" : 1479.5
+      } , 
+      { 
+        "label" : "2009" ,
+        "value" : 3328.5
+      } , 
+      { 
+        "label" : "2010" ,
+        "value" : 1280.3
+      } , 
+      { 
+        "label" : "2011" ,
+        "value" : 2585.1
+      } , 
+      {
+        "label" : "2012" ,
+        "value" : 2837.6
+      } 
+    ]
+  },
+  {
+    "key": "FDI",
+    "color": "#1f77b4",
+    "values": [
+      { 
+        "label" : "2008" ,
+        "value" : 9507.2
+      } , 
+      { 
+        "label" : "2009" ,
+        "value" : 8103.7
+      } , 
+      { 
+        "label" : "2010" ,
+        "value" : 8064.9
+      } , 
+      { 
+        "label" : "2011" ,
+        "value" : 10614.4
+      } , 
+      {
+        "label" : "2012" ,
+        "value" : 12340.8
+      }  
+    ]
+  }
+]
+
